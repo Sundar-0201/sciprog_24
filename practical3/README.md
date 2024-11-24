@@ -4,8 +4,13 @@ This is Practical 3
 This contains all the .c files for practical 3
 
 
-practical3.c compiles the sum of f(x)dx that is ranginging rom 0 to pi/3
+Practical3.c compiles the sum of f(x)dx that is ranginging rom 0 to pi/3
 
+Compilation:
+gcc -o Practical3.c Practical3
+
+Execution:
+./Practical3
 
 Output:
 
@@ -18,4 +23,4 @@ The difference is -0.001898
 
 The absolute difference = 0.001898
 
-The relative difference = 0.002738
+The relative differenceÂ =Â 0.002738
