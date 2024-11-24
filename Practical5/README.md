@@ -4,13 +4,27 @@ This is Practical 5
 This contains all the .c files for practical 5
 
 
-fib.c calculates fibonacci series and maclaurin.c contains inverse hyperbolic function
+fib.c calculates fibonacci series.
 
+Compilation:
+gcc -o fib.c fib
+
+Execution:
+./fib
 
 fib.c Output:
 
 Enter the number of values : 4
 The fibonacci series is : 0, 1, 1, 2, 3
+
+
+maclaurin.c contains inverse hyperbolic function
+
+Compilation:
+gcc -o maclaurin.c maclaurin
+
+Execution:
+./maclaurin
 
 maclaurin.c Output:
 
