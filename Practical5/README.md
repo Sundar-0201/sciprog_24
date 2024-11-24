@@ -21,7 +21,7 @@ The fibonacci series is : 0, 1, 1, 2, 3
 maclaurin.c contains inverse hyperbolic function
 
 Compilation:
-gcc -o maclaurin.c maclaurin
+gcc -o maclaurin.c maclaurin -lm
 
 Execution:
 ./maclaurin
