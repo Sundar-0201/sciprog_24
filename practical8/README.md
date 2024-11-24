@@ -6,6 +6,11 @@ This contains all the .c files for practical 8
 
 practical8.c is finding GCD using Iterative method and Recursive method.
 
+Compilation:
+gcc -o practical8.c practical8
+
+Execution:
+./practical8
 
 Output:
 
