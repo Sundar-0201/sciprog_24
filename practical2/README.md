@@ -7,7 +7,7 @@ This contains all the .c files for practical 2
 Conversion.c gives the number of binary digits and the representation of the value in integer float and binary form
 
 Compilation:
-gcc -o Conversion.c Conversion
+gcc -o Conversion.c Conversion -lm
 
 Execution:
 ./Conversion

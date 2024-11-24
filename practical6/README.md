@@ -6,6 +6,11 @@ This contains all the .c files for practical 6
 
 practical6.c contains matrix multiplication
 
+Compilation:
+gcc -o practical6.c practical6
+
+Execution:
+./practical6
 
 Output:
 
