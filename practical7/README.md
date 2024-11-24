@@ -6,6 +6,11 @@ This contains all the .c files for practical 7
 
 practical7.c comparing the true value and estimate of the exponential function.
 
+Compilation:
+gcc -o practical7.c practical7
+
+Execution:
+./practical7
 
 Output:
 
