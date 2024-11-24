@@ -4,8 +4,13 @@ This is Practical 4
 This contains all the .c files for practical 4
 
 
-practical3.c compiles the sum of f(x)dx that is ranging rom 0 to pi/3 using Trapezoidal Rule.
+practical4.c compiles the sum of f(x)dx that is ranging rom 0 to pi/3 using Trapezoidal Rule.
 
+Compilation:
+gcc -o practical4.c practical4
+
+Execution:
+./practical4
 
 Output:
 
